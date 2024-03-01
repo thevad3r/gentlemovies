@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gentlemovies/static/css/main.d7404adf.css",
-    "main.js": "/gentlemovies/static/js/main.0f7cdd68.js",
+    "main.js": "/gentlemovies/static/js/main.a697983c.js",
     "index.html": "/gentlemovies/index.html",
     "static/media/search.svg": "/gentlemovies/static/media/search.3b95d5c107628117b0b5.svg",
     "static/media/xmark.svg": "/gentlemovies/static/media/xmark.ffbfdd2653bc98cff937.svg",
     "main.d7404adf.css.map": "/gentlemovies/static/css/main.d7404adf.css.map",
-    "main.0f7cdd68.js.map": "/gentlemovies/static/js/main.0f7cdd68.js.map"
+    "main.a697983c.js.map": "/gentlemovies/static/js/main.a697983c.js.map"
   },
   "entrypoints": [
     "static/css/main.d7404adf.css",
-    "static/js/main.0f7cdd68.js"
+    "static/js/main.a697983c.js"
   ]
 }
